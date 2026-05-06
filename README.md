@@ -1,50 +1,36 @@
-# Welcome to your Expo app 👋
+<div align="center">
+  <h1>Planner 📚</h1>
+  <p>A mobile study planning application built as part of a university software engineering course.</p>
+Show Image
+Show Image
+</div>
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Overview
+Planner is a mobile study planning app designed to help students organize their tasks, schedules, and academic goals. Built as a course project at Babcock University, it covers core functionality for task management and study session planning.
 
-## Get started
+Features
 
-1. Install dependencies
+Create and manage study tasks
+Schedule and organize study sessions
+Track academic goals and progress
 
-   ```bash
-   npm install
-   ```
 
-2. Start the app
+Tech Stack
 
-   ```bash
-   npx expo start
-   ```
+Framework: React Native
+Language: TypeScript
 
-In the output, you'll find options to open the app in a
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+Project Status
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+Course project — not actively maintained. This was built as part of a university software engineering module. Some features may be incomplete or unstable.
 
-## Get a fresh project
 
-When you're ready, run:
+Getting Started
+bashgit clone https://github.com/daves-impact/Planner.git
+cd Planner
+npm install
+npx expo start
 
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Author
+Dave — Babcock University, Software Engineering.
