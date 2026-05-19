@@ -1,8 +1,7 @@
 <div align="center">
   <h1>Planner 📚</h1>
   <p>A mobile study planning application built as part of a university software engineering course.</p>
-Show Image
-Show Image
+
 </div>
 
 Overview
@@ -10,9 +9,9 @@ Planner is a mobile study planning app designed to help students organize their 
 
 Features
 
-Create and manage study tasks
-Schedule and organize study sessions
-Track academic goals and progress
+1. Create and manage study tasks
+2. Schedule and organize study sessions
+3. Track academic goals and progress
 
 
 Tech Stack
@@ -27,7 +26,7 @@ Course project — not actively maintained. This was built as part of a universi
 
 
 Getting Started
-bashgit clone https://github.com/daves-impact/Planner.git
+git clone https://github.com/daves-impact/Planner.git
 cd Planner
 npm install
 npx expo start
